@@ -1,0 +1,11 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "nadia saeed practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "nadia",
+  "license": "ISC"
+}

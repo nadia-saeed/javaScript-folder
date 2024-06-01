@@ -1,0 +1,1 @@
+// Write a program using a while loop to check if a given number is a palindrome.

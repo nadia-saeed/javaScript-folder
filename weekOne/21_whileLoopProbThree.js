@@ -1,0 +1,1 @@
+// Print the powers of 2 up to a given exponent using a while loop.
